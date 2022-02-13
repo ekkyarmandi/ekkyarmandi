@@ -1,25 +1,21 @@
 ## Hi I'm Ekky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-My fullname is Ekky Armandi. I'm from Samarinda, Indonesia. I'm a fulltime freelancer and work as Python Developer for the last two years until now. Mostly working on data scraping project.
+My fullname is Ekky Armandi. I'm from Samarinda, Indonesia. I'm a fulltime freelancer. I work as a Python Developer since 2019 until now, mostly working on data scraping project.
 
 - 🔭 I’m currently working at @Upwork
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning JavaScript and Solidity
 - 👯 I’m looking to collaborate on open source
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I play bass guitar
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCdOpza8R3bgEXFlS-7R0fJg#gh-dark-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCdOpza8R3bgEXFlS-7R0fJg#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/ekkyarmandi#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/ekkyarmandi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/ekkyarmandi#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ekkyarmandi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ekkyarmandi#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ekkyarmandi#gh-dark-mode-only)
 
 ### Languages and Tools:
@@ -44,6 +40,10 @@ My fullname is Ekky Armandi. I'm from Samarinda, Indonesia. I'm a fulltime freel
 <br />
 <br />
 
-### GitHub Stats:1
+<details>
+  
+  <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ekkyarmandi&show_icons=true&hide_border=false&title_color=1E90FF&icon_color=32CD32&bg_color=09131B&text_color=ffffff&border_color=C0C0C0" />
+
+</details>
