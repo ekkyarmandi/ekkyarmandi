@@ -1,6 +1,6 @@
 ## Hi I'm Ekky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-My fullname is Ekky Armandi. I'm from Samarinda, Indonesia. I'm a fulltime freelancer. I work as a Python Developer since 2019 until now, mostly working on data scraping project.
+I'm from Samarinda, Indonesia. I'm a fulltime freelancer. I work as a Python Developer since 2019 until now, mostly working on data scraping project.
 
 - 🔭 I’m currently working at @Upwork
 - 🌱 I’m currently learning JavaScript and Solidity
@@ -36,7 +36,6 @@ My fullname is Ekky Armandi. I'm from Samarinda, Indonesia. I'm a fulltime freel
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <br />
 <br />
 
