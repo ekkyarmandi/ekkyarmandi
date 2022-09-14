@@ -1,12 +1,12 @@
 ## Hi I'm Ekky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm from Samarinda, Indonesia. I'm a fulltime freelancer. I work as a Python Developer since 2019 until now, mostly working on data scraping project.
+I'm from Samarinda, Indonesia. I'm a fulltime freelancer. I work as a Python Developer since 2019 until now, mostly working on data scraping project and small web application.
 
-- 🔭 I’m currently working at @Upwork
-- 🌱 I’m currently learning JavaScript and Solidity
+- 🔭 I’m currently using [upwork](https://www.upwork.com/fl/~0143f12f23fdf67132) as my freelancing platfrom
+- 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on open source
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I play bass guitar
+- 🥅 2022 Goals: Learn more about front-end
+- ⚡ Fun fact: I play bass and also love mechanical keyboard
 
 ### Connect with me:
 
