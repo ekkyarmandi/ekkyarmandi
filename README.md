@@ -20,6 +20,7 @@ I'm from Samarinda, Indonesia. I'm a fulltime freelancer as a Python Developer s
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ekkyarmandi#gh-dark-mode-only)
 
 ### Stacks/Technology:
+
 <img align="left" alt="Python" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding:10px; object-fit: scale-down;" />
 <img align="left" alt="JavaScript" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:10px; object-fit: scale-down;" />
 <img align="left" alt="Bootstrap" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding:10px; wobject-fit: scale-down;" />
@@ -40,7 +41,9 @@ I'm from Samarinda, Indonesia. I'm a fulltime freelancer as a Python Developer s
 <img align="left" alt="PostgreSQL" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" style="padding:10px; object-fit: scale-down;" />
 <img align="left" alt="MySQL" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding:10px; wobject-fit: scale-down;" />
 <img align="left" alt="Git" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:10px; wobject-fit: scale-down;" />
-<img align="left" alt="GitHub" height="50px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding:10px; wobject-fit: scale-down;" />   
+<img align="left" alt="GitHub" height="50px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding:10px; wobject-fit: scale-down;" />
+
+&#010;
 
 <details>
   <summary>GitHub Stats</summary>
