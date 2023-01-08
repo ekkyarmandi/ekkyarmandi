@@ -20,7 +20,6 @@ I'm from Samarinda, Indonesia. I'm a fulltime freelancer as a Python Developer s
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ekkyarmandi#gh-dark-mode-only)
 
 ### Stacks/Technology:
-
 <img align="left" alt="Python" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px; object-fit: scale-down;" />
 <img align="left" alt="JavaScript" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; object-fit: scale-down;" />
 <img align="left" alt="Bootstrap" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px; wobject-fit: scale-down;" />
@@ -42,13 +41,11 @@ I'm from Samarinda, Indonesia. I'm a fulltime freelancer as a Python Developer s
 <img align="left" alt="MySQL" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px; wobject-fit: scale-down;" />
 <img align="left" alt="Git" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px; wobject-fit: scale-down;" />
 <img align="left" alt="GitHub" height="50px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px; wobject-fit: scale-down;" />
-<br />
-<br />
 
+<br/>
+<br/>
+<br/>
 <details>
-  
-  <summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ekkyarmandi&show_icons=true&hide_border=false&title_color=1E90FF&icon_color=32CD32&bg_color=09131B&text_color=ffffff&border_color=C0C0C0" />
-
+  <summary>GitHub Stats</summary>
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ekkyarmandi&show_icons=true&hide_border=false&title_color=1E90FF&icon_color=32CD32&bg_color=09131B&text_color=ffffff&border_color=C0C0C0"/>
 </details>
