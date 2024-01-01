@@ -21,7 +21,7 @@ I'm a self-taught Programmer and full-time Freelancer based in Yogyakarta, Indon
 <tbody>
     <tr><td>Programming Languages</td></tr>
     <tr>
-        <td style="display: flex; align-items: center; gap: 4px;">
+        <td>
             <img
                 alt="Python"
                 align="left"
@@ -47,7 +47,7 @@ I'm a self-taught Programmer and full-time Freelancer based in Yogyakarta, Indon
     </tr>
     <tr><td>Web Development Stacks</td></tr>
     <tr>
-        <td style="display: flex; align-items: center; gap: 6px;">
+        <td>
             <img
                 alt="HTML"
                 height="50px"
@@ -76,7 +76,7 @@ I'm a self-taught Programmer and full-time Freelancer based in Yogyakarta, Indon
     </tr>
     <tr><td>Python Frameworks</td></tr>
     <tr>
-        <td style="display: flex; gap: 4px; align-items: center;">
+        <td>
             <img
                 alt="Django"
                 height="45px"
@@ -138,7 +138,7 @@ I'm a self-taught Programmer and full-time Freelancer based in Yogyakarta, Indon
     </tr>
     <tr><td>Cloud Computing</td></tr>
     <tr>
-        <td style="display: flex; align-items: center; gap: 10px;">
+        <td>
             <img
                 align="center"
                 alt="AWS"
@@ -164,7 +164,7 @@ I'm a self-taught Programmer and full-time Freelancer based in Yogyakarta, Indon
     </tr>
     <tr><td>Other Tools</td></tr>
     <tr>
-        <td style="display: flex; align-items: center; gap: 10px;">
+        <td>
             <img
                 alt="Linux"
                 height="50px"
