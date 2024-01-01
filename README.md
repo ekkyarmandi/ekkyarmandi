@@ -3,7 +3,7 @@
 I'm a self-taught Programmer and full-time Freelancer based in Yogyakarta, Indonesia. I've been freelancing since 2020. I have experience in Django Web Development and Data Scraping.
 
 - 🔭 Hire me on [Upwork](https://www.upwork.com/freelancers/ekkyarmandi)
-- 🌱 I’m currently learning how to write articles for [my website](https://ekkyarmandi.com) and rouint ship it on Medium
+- 🌱 I’m currently making a writing habit for my [website](https://ekkyarmandi.com)
 - 🥅 2024 Goals: Learn Data Engineering
 - ⚡ Hobbies: Bass and Building Mechanical Keyboard
 
