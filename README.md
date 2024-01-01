@@ -2,10 +2,10 @@
 
 I'm a self-taught Programmer and full-time Freelancer based in Yogyakarta, Indonesia. I've been freelancing since 2020. I have experience in Django Web Development and Data Scraping.
 
--   🔭 Hire me on [Upwork](https://www.upwork.com/freelancers/ekkyarmandi)
--   🌱 I’m currently learning how to write articles for [my website](https://ekkyarmandi.com) and rouint ship it on Medium
--   🥅 2024 Goals: Learn Data Engineering
--   ⚡ Hobbies: Bass and Building Mechanical Keyboard
+- 🔭 Hire me on [Upwork](https://www.upwork.com/freelancers/ekkyarmandi)
+- 🌱 I’m currently learning how to write articles for [my website](https://ekkyarmandi.com) and rouint ship it on Medium
+- 🥅 2024 Goals: Learn Data Engineering
+- ⚡ Hobbies: Bass and Building Mechanical Keyboard
 
 ### Connect with me:
 
@@ -16,6 +16,7 @@ I'm a self-taught Programmer and full-time Freelancer based in Yogyakarta, Indon
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ekkyarmandi#gh-dark-mode-only)
 
 ### Stacks/Technology:
+
 <table>
 <tbody>
     <tr><td>Programming Languages</td></tr>
@@ -40,7 +41,7 @@ I'm a self-taught Programmer and full-time Freelancer based in Yogyakarta, Indon
                 align="left"
                 height="50px"
                 style="margin: 10px; background: white; border-radius: 6px;"
-                src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Ik00OCAxMThhNiA2IDAgMCAwIDYtNlY0MGEyIDIgMCAwIDEgMi0yaDkwdjUwYTYgNiAwIDAgMCA2IDZoNTB2MThhNiA2IDAgMSAwIDEyIDBWODhhNiA2IDAgMCAwLTEuNzYtNC4yNWwtNTYtNTZBNiA2IDAgMCAwIDE1MiAyNkg1NmExNCAxNCAwIDAgMC0xNCAxNHY3MmE2IDYgMCAwIDAgNiA2bTExMC03MS41MkwxOTMuNTIgODJIMTU4Wk0yMjYgMjA4YTYgNiAwIDAgMS02IDZoLTI4YTYgNiAwIDAgMS02LTZ2LTU2YTYgNiAwIDAgMSAxMiAwdjUwaDIyYTYgNiAwIDAgMSA2IDZNODkuODMgMTk2YTE4Ljg1IDE4Ljg1IDAgMCAxLTguMyAxMy44MmMtNC44MiAzLjIzLTEwLjg3IDQuMTgtMTYuMzcgNC4xOGE1OC44NyA1OC44NyAwIDAgMS0xNC42Ny0yYTYgNiAwIDAgMSAzLjIzLTExLjU2YzMuNzEgMSAxNS41OCAzLjExIDIxLjE5LS42MmE2Ljg1IDYuODUgMCAwIDAgMy01LjM0Yy41Ny00LjQzLTIuMDgtNi4yNi0xNC4yLTkuNzZjLTkuMzEtMi42OS0yMy4zNy02Ljc1LTIxLjU3LTIwLjk0YTE4LjYxIDE4LjYxIDAgMCAxIDguMDgtMTMuNTRjMTEuMTEtNy40OSAyOS4xOC0zIDMxLjItMi40OGE2IDYgMCAxIDEtMy4wNiAxMS42Yy0zLjc5LTEtMTUuODUtMi45NS0yMS40NC44NGE2LjU5IDYuNTkgMCAwIDAtMi44OCA1LjA4Yy0uNDEgMy4yMiAyLjE0IDQuNzggMTMgNy45MWM5Ljg5IDIuODkgMjQuODEgNy4yIDIyLjc5IDIyLjgxTTEzNiAxNDZjLTE2LjU0IDAtMzAgMTUuMjUtMzAgMzRzMTMuNDUgMzQgMzAgMzRhMjcuMzIgMjcuMzIgMCAwIDAgMTYuMTUtNS4zN2wzLjYxIDMuNjFhNiA2IDAgMSAwIDguNDktOC40OGwtMy45MS0zLjkxQTM2Ljk0IDM2Ljk0IDAgMCAwIDE2NiAxODBjMC0xOC43Ni0xMy40NS0zNC0zMC0zNG0wIDU2Yy05LjkyIDAtMTgtOS44Ny0xOC0yMnM4LjA3LTIyIDE4LTIyczE4IDkuODcgMTggMjJhMjUuNTggMjUuNTggMCAwIDEtMi40NSAxMS4wNmwtMy4zLTMuM2E2IDYgMCAwIDAtOC40OSA4LjQ4bDMuNzUgMy43NUExNS4zMiAxNS4zMiAwIDAgMSAxMzYgMjAyIi8+PC9zdmc+"
+                src="img/stacks/file-sql-duotone.svg"
             />
         </td>
     </tr>
@@ -51,13 +52,13 @@ I'm a self-taught Programmer and full-time Freelancer based in Yogyakarta, Indon
                 alt="HTML"
                 height="50px"
                 style="padding: 10px"
-                src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IiNFNDREMjYiIGQ9Ik0xOS4wMzcgMTEzLjg3Nkw5LjAzMiAxLjY2MWgxMDkuOTM2bC0xMC4wMTYgMTEyLjE5OGwtNDUuMDE5IDEyLjQ4eiIvPjxwYXRoIGZpbGw9IiNGMTY1MjkiIGQ9Im02NCAxMTYuOGwzNi4zNzgtMTAuMDg2bDguNTU5LTk1Ljg3OEg2NHoiLz48cGF0aCBmaWxsPSIjRUJFQkVCIiBkPSJNNjQgNTIuNDU1SDQ1Ljc4OEw0NC41MyAzOC4zNjFINjRWMjQuNTk5SDI5LjQ4OWwuMzMgMy42OTJsMy4zODIgMzcuOTI3SDY0em0wIDM1Ljc0M2wtLjA2MS4wMTdsLTE1LjMyNy00LjE0bC0uOTc5LTEwLjk3NUgzMy44MTZsMS45MjggMjEuNjA5bDI4LjE5MyA3LjgyNmwuMDYzLS4wMTd6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTYzLjk1MiA1Mi40NTV2MTMuNzYzaDE2Ljk0N2wtMS41OTcgMTcuODQ5bC0xNS4zNSA0LjE0M3YxNC4zMTlsMjguMjE1LTcuODJsLjIwNy0yLjMyNWwzLjIzNC0zNi4yMzNsLjMzNS0zLjY5NmgtMy43MDh6bTAtMjcuODU2djEzLjc2MmgzMy4yNDRsLjI3Ni0zLjA5MmwuNjI4LTYuOTc4bC4zMjktMy42OTJ6Ii8+PC9zdmc+"
+                src="img/stacks/html5.svg"
             />
             <img
                 alt="CSS"
                 height="50px"
                 style="padding: 10px;"
-                src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IiMxNTcyQjYiIGQ9Ik0xOC44MTQgMTE0LjEyM0w4Ljc2IDEuMzUyaDExMC40OGwtMTAuMDY0IDExMi43NTRsLTQ1LjI0MyAxMi41NDN6Ii8+PHBhdGggZmlsbD0iIzMzQTlEQyIgZD0ibTY0LjAwMSAxMTcuMDYybDM2LjU1OS0xMC4xMzZsOC42MDEtOTYuMzU0aC00NS4xNnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjQuMDAxIDUxLjQyOWgxOC4zMDJsMS4yNjQtMTQuMTYzSDY0LjAwMVYyMy40MzVoMzQuNjgybC0uMzMyIDMuNzExbC0zLjQgMzguMTE0aC0zMC45NXoiLz48cGF0aCBmaWxsPSIjRUJFQkVCIiBkPSJtNjQuMDgzIDg3LjM0OWwtLjA2MS4wMThsLTE1LjQwMy00LjE1OWwtLjk4NS0xMS4wMzFIMzMuNzUybDEuOTM3IDIxLjcxN2wyOC4zMzEgNy44NjNsLjA2My0uMDE4eiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Im04MS4xMjcgNjQuNjc1bC0xLjY2NiAxOC41MjJsLTE1LjQyNiA0LjE2NHYxNC4zOWwyOC4zNTQtNy44NThsLjIwOC0yLjMzN2wyLjQwNi0yNi44ODF6Ii8+PHBhdGggZmlsbD0iI0VCRUJFQiIgZD0iTTY0LjA0OCAyMy40MzV2MTMuODMxSDMwLjY0bC0uMjc3LTMuMTA4bC0uNjMtNy4wMTJsLS4zMzEtMy43MTF6bS0uMDQ3IDI3Ljk5NnYxMy44MzFINDguNzkybC0uMjc3LTMuMTA4bC0uNjMxLTcuMDEybC0uMzMtMy43MTF6Ii8+PC9zdmc+"
+                src="img/stacks/css3.svg"
             />
             <img
                 alt="Bootstrap"
@@ -69,7 +70,7 @@ I'm a self-taught Programmer and full-time Freelancer based in Yogyakarta, Indon
                 alt="TailwindCSS"
                 height="50px"
                 style="padding: 10px;"
-                src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGZpbGw9IiMzOGJkZjgiIGQ9Ik02NC4wMDQgMjUuNjAyYy0xNy4wNjcgMC0yNy43MyA4LjUzLTMyIDI1LjU5N2M2LjM5OC04LjUzMSAxMy44NjctMTEuNzMgMjIuMzk4LTkuNTk3YzQuODcxIDEuMjE0IDguMzUyIDQuNzQ2IDEyLjIwNyA4LjY2QzcyLjg4MyA1Ni42MjkgODAuMTQ1IDY0IDk2LjAwNCA2NGMxNy4wNjYgMCAyNy43My04LjUzMSAzMi0yNS42MDJjLTYuMzk5IDguNTM2LTEzLjg2NyAxMS43MzUtMjIuMzk5IDkuNjAyYy00Ljg3LTEuMjE1LTguMzQ3LTQuNzQ2LTEyLjIwNy04LjY2Yy02LjI3LTYuMzY3LTEzLjUzLTEzLjczOC0yOS4zOTQtMTMuNzM4TTMyLjAwNCA2NGMtMTcuMDY2IDAtMjcuNzMgOC41MzEtMzIgMjUuNjAyQzYuNDAyIDgxLjA2NiAxMy44NyA3Ny44NjcgMjIuNDAyIDgwYzQuODcxIDEuMjE1IDguMzUyIDQuNzQ2IDEyLjIwNyA4LjY2YzYuMjc0IDYuMzY3IDEzLjUzNiAxMy43MzggMjkuMzk1IDEzLjczOGMxNy4wNjYgMCAyNy43My04LjUzIDMyLTI1LjU5N2MtNi4zOTkgOC41MzEtMTMuODY3IDExLjczLTIyLjM5OSA5LjU5N2MtNC44Ny0xLjIxNC04LjM0Ny00Ljc0Ni0xMi4yMDctOC42NkM1NS4xMjggNzEuMzcxIDQ3Ljg2OCA2NCAzMi4wMDQgNjRtMCAwIi8+PC9zdmc+"
+                src="img/stacks/tailwindcss-light.svg"
             />
         </td>
     </tr>
@@ -192,7 +193,7 @@ I'm a self-taught Programmer and full-time Freelancer based in Yogyakarta, Indon
                 alt="Figma"
                 height="50px"
                 style="padding: 10px;"
-                src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCAyNTYgMjU2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9Im5vbmUiPjxyZWN0IHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSIjMjQyOTM4IiByeD0iNjAiLz48ZyBjbGlwLXBhdGg9InVybCgjc2tpbGxJY29uc0ZpZ21hRGFyazApIj48cGF0aCBmaWxsPSIjMEFDRjgzIiBkPSJNOTQuMzQ3IDIyOGMxOC40IDAgMzMuMzMzLTE0LjkzMyAzMy4zMzMtMzMuMzMzdi0zMy4zMzRIOTQuMzQ3Yy0xOC40IDAtMzMuMzM0IDE0LjkzNC0zMy4zMzQgMzMuMzM0YzAgMTguNCAxNC45MzQgMzMuMzMzIDMzLjMzNCAzMy4zMzMiLz48cGF0aCBmaWxsPSIjQTI1OUZGIiBkPSJNNjEuMDEzIDEyOGMwLTE4LjQgMTQuOTM0LTMzLjMzMyAzMy4zMzQtMzMuMzMzaDMzLjMzM3Y2Ni42NjZIOTQuMzQ3Yy0xOC40IDAtMzMuMzM0LTE0LjkzMy0zMy4zMzQtMzMuMzMzIi8+PHBhdGggZmlsbD0iI0YyNEUxRSIgZD0iTTYxLjAxMyA2MS4zMzNDNjEuMDEzIDQyLjkzMyA3NS45NDcgMjggOTQuMzQ3IDI4aDMzLjMzM3Y2Ni42NjdIOTQuMzQ3Yy0xOC40IDAtMzMuMzM0LTE0LjkzNC0zMy4zMzQtMzMuMzM0Ii8+PHBhdGggZmlsbD0iI0ZGNzI2MiIgZD0iTTEyNy42OCAyOGgzMy4zMzNjMTguNCAwIDMzLjMzNCAxNC45MzMgMzMuMzM0IDMzLjMzM3MtMTQuOTM0IDMzLjMzNC0zMy4zMzQgMzMuMzM0SDEyNy42OHoiLz48cGF0aCBmaWxsPSIjMUFCQ0ZFIiBkPSJNMTk0LjM0NyAxMjhjMCAxOC40LTE0LjkzNCAzMy4zMzMtMzMuMzM0IDMzLjMzM2MtMTguNCAwLTMzLjMzMy0xNC45MzMtMzMuMzMzLTMzLjMzM3MxNC45MzMtMzMuMzMzIDMzLjMzMy0zMy4zMzNTMTk0LjM0NyAxMDkuNiAxOTQuMzQ3IDEyOCIvPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9InNraWxsSWNvbnNGaWdtYURhcmswIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjEgMjhoMTMzLjM2djIwMEg2MXoiLz48L2NsaXBQYXRoPjwvZGVmcz48L2c+PC9zdmc+"
+                src="img/stacks/figma-dark.svg"
             />
             <img
                 alt="Adobe Illustrator"
