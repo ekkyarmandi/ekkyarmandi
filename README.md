@@ -17,5 +17,5 @@ I also provide end-to-end services, from design to deployment and maintenance:
 - Telegram Bot
 - Model Context Protocol (MCP) Server
 
-## Contacts
+## Contact Me
 Feel free to contact me at [me@ekky.dev](mailto:me@ekky.dev) if you found my profile interesting and fit with your project needs.
