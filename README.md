@@ -15,7 +15,7 @@ I also provide end-to-end services, from design to deployment and maintenance:
 - Backend Development (using Python)
 - Desktop App (using Electron.js or PyQT)
 - Telegram Bot
-- Model Context Protocol (MCP) Server
+- Model Context Protocol (MCP) Server Development
 
 ## Contact Me
 Feel free to contact me at [me@ekky.dev](mailto:me@ekky.dev) if you found my profile interesting and fit with your project needs.
