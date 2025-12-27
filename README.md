@@ -2,11 +2,6 @@
 
 I'm a **Full-stack Python Developer** and full-time freelancer based in Yogyakarta, Indonesia. I've been freelancing since 2020. I have experience in Python FastAPI/Django and also React.js/Vue.js. I'm a problem solver and detail-oriented programmer. I'm good at using version control like `git`. I use Vim-binding anywhere possible (like in Obsidian and in an IDE).
 
-## Links
-- [Web Portfolio](https://ekky.dev)
-- [Upwork](https://upwork.com/fl/ekkyarmandi/)
-- [LinkedIn](https://www.linkedin.com/in/ekky-armandi-b8a135147/)
-
 ## Services
 I also provide end-to-end services, from design to deployment and maintenance:
 - Product Design and Planning
